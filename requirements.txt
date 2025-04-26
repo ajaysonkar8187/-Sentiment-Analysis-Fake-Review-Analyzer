@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+nltk
+joblib
+streamlit
+transformers
+torch
+googletrans==4.0.0-rc1
