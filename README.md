@@ -1,4 +1,4 @@
-📖 Sentiment & Fake Review Analyzer
+                                              📖 Sentiment & Fake Review Analyzer
 A Streamlit web app that analyzes product reviews using a BERT multilingual model, detects fake reviews, and predicts customer behavior (Happy, Unhappy, Neutral).
 Supports both English and Hindi reviews via auto-translation.
 
@@ -17,6 +17,8 @@ Supports both English and Hindi reviews via auto-translation.
 bash
 Copy
 Edit
+
+
 sentiment-bert-app/
 ├── app.py                # Main Streamlit application
 ├── requirements.txt      # Python dependencies
